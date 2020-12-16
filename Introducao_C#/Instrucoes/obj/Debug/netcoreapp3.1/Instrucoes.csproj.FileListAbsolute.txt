@@ -1,0 +1,4 @@
+C:\Bootcamp Avanade\Introducao a Programacao com C#\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csprojAssemblyReference.cache
+C:\Bootcamp Avanade\Introducao a Programacao com C#\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfoInputs.cache
+C:\Bootcamp Avanade\Introducao a Programacao com C#\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfo.cs
+C:\Bootcamp Avanade\Introducao a Programacao com C#\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csproj.CoreCompileInputs.cache

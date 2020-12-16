@@ -1,0 +1,13 @@
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Bootcamp Avanade\Introducao a Programacao com C#\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.genruntimeconfig.cache

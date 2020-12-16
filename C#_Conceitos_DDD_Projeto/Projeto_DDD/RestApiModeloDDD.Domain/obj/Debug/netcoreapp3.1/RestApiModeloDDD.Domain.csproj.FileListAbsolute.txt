@@ -1,0 +1,18 @@
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.deps.json
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Rafael A\Desktop\ModeloDDD-master\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.deps.json
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfo.cs
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Bootcamp Avanade\C# usando DDD\Projeto_DDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
